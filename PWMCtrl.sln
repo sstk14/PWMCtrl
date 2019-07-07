@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.572
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PWMCtrl", "PWMCtrl\PWMCtrl.csproj", "{BCA2D785-7A23-4E34-9EB9-D9702284CD06}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PWMCtrl", "PWMCtrl\PWMCtrl.csproj", "{BCA2D785-7A23-4E34-9EB9-D9702284CD06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
